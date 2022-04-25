@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Tommy leads the Chicago Power BI User Group (downtown), which meets every month. He is also one of the hosts on the powerbi.tips [Explicit Measures Podcast](https://anchor.fm/explicitmeasures)
+
+
+[contact me](https://directs.space/6196804)
+
 <!--
 **pugliathomas/pugliathomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
