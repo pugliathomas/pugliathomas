@@ -5,6 +5,8 @@ Tommy leads the Chicago Power BI User Group (downtown), which meets every month.
 
 [contact me](https://directs.space/6196804)
 
+![Metrics](/github-metrics.svg)
+
 <!--
 **pugliathomas/pugliathomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
