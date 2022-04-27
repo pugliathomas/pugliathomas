@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1101" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1134" class="">
     <defs>
         <style/>
     </defs>
@@ -415,11 +415,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>Feincraft/TrulyResponsive</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">
-                                </div>
+                                <div class="field description">TrulyResponsive is the framework to build PowerApps that show the right UX on any device.</div>
                                 <div class="field infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -457,7 +456,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/industry</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository provides holistic architecture design and reference implementation for industry cloud based on proven success of large scale deployments and at-scale adoption with customers and partners.</div>
@@ -595,7 +594,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2022, 06:03:05 (timezone America/Chicago) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 Apr 2022, 07:03:44 (timezone America/Chicago) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
