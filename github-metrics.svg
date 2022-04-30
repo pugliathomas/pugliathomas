@@ -378,8 +378,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="200.69 329"/>
-                                <text x="60" y="60" dominant-baseline="central">61</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="289.52 329"/>
+                                <text x="60" y="60" dominant-baseline="central">88</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -579,7 +579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OscarValerock/PowerBI-ThemeTemplates-1</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSON Templates for assembling Power BI Themes</div>
@@ -623,7 +623,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Apr 2022, 02:03:12 (timezone America/Chicago) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 30 Apr 2022, 03:03:13 (timezone America/Chicago) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
