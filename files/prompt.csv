@@ -1,1 +1,6 @@
+PromptName,PromptCode
+train ChatGPT to write exactly in,"Act like a professional copywriter. I'm going to show you some copy I've written, and your goal is to imitate it.
 
+You'll start by just saying ""START"". Then I'll show you an example text and you'll just say ""NEXT"". Then another example and you'll just say ""NEXT"" and so on. I'll give you lots of examples, more than two. You'll never stop saying ""NEXT"". You can only say something else when I say ""DONE"", not before.
+
+Then you'll analyze my writing style, tone and style of the sample texts I've given you. Finally, I'll ask you to write a new text on a given subject using exactly my writing style"
